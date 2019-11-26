@@ -1,6 +1,6 @@
 {
-	"name": "Twelve-Factor WordPress",
-	"description": "WordPress, fully managed using Composer and configured using environment variables.",
+	"name": "Mittun WordPress",
+	"description": "Mittun + Heroku",
 	"keywords": [
 		"php",
 		"wordpress",
